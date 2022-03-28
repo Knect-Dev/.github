@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ec1a5e89-0f69-43e5-a59b-955b4f87250c/deploy-status)](https://app.netlify.com/sites/peaceful-einstein-84c17d/deploys)
+
 ## Knect.Dev 👋
 [knect.dev](https://www.knect.dev)
 
