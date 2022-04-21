@@ -4,16 +4,9 @@
 [knect.dev](https://www.knect.dev)
 
 
-## Under-The-Hood
+## Please See Repositories for Detailed Info
 - [FrontEnd README](https://github.com/Knect-Dev/Knect-Dev-Frontend/blob/dev/README.md)
 - [BackEnd README](https://github.com/Knect-Dev/Knect-Dev-Backend/blob/main/README.md)
-
-## About
-intro place holder
-
-## Contribution Guidelines
-to be added
-
 
 
 <!--
